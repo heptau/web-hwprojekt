@@ -25,7 +25,7 @@ input[type=button] {display:none;}
 }
 
 @media (prefers-color-scheme: dark) {
-html,body{color:#fff}
+html,body{background-color:#111; color:#fff}
 #body{background-color:#333; border:solid 1px #333}
 }
 
